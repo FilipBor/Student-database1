@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/barca/CLionProjects/CP2 Project/Classes.cpp
+Classes.h
+C:/Users/barca/CLionProjects/CP2 Project/Classes.h
+
+C:/Users/barca/CLionProjects/CP2 Project/Classes.h
+string
+-
+iostream
+-
+vector
+-
+

@@ -1,0 +1,5 @@
+add_stu = uruchamia część programu umożliwiającą dodanie studenta do bazy
+edit_stu = uruchamia część programu umożliwiającą edycje studenta
+add_subj = uruchamia część programu umożliwiającą dodanie przedmiotu do bazy
+edit_subj = uruchamia część programu umożliwiającą edycje przedmiotu
+quit = kończy program
